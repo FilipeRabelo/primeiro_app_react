@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#btn{
+    background-color: lawngreen;
+    color: black;
+    font-weight: bold;
+}
+
+input{
+    color: white;
+    font-weight: bold;
+
+    font-size: 20px;
+}
+
+label{
+    font-size: 20px;
+    font-weight: bold;
+}
